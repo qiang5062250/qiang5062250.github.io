@@ -56,3 +56,5 @@ education:
     - date: 2009-09
 
 google_analytics: UA-45256157-13
+
+theme: jekyll-theme-cayman
