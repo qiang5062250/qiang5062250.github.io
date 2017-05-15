@@ -1,39 +1,30 @@
-title: xcatliu / 流浪小猫
+title: qiang5062250 / 小强
 description: A cat who writes code
 
 social:
   - title: GitHub
     img: /assets/images/github.ico
-    url: https://github.com/xcatliu
-  - title: V2EX
-    img: /assets/images/v2ex.png
-    url: https://www.v2ex.com/member/xcatliu?r=xcatliu
-  - title: Blog
-    img: /assets/images/avatar.png
-    url: http://blog.xcatliu.com
-  - title: Twitter
-    img: /assets/images/twitter.ico
-    url: https://twitter.com/xcatliu
-  - title: Gmail
+    url: https://github.com/qiang5062250
+  - title: Email
     img: /assets/images/gmail.png
-    url: mailto:xcatliu@gmail.com
+    url: mailto:root@30pu.net
 
 avatar: /assets/images/avatar.png
 introduction: >
-  Hi! My nickname is xcatliu.<br/>
+  Hi! My nickname is qiang5062250.<br/>
   中文昵称是流浪小猫，也可以叫我小猫。<br/>
   Whenever you see this lovely cat, yeah that’s me!
 
 projects:
   title: Open Source Projects
   github:
-    - xcatliu/mobi.css
-    - xcatliu/typescript-tutorial
-    - xcatliu/react-ie8
-    - xcatliu/jekyllcn
+    - qiang5062250/mobi.css
+    - qiang5062250/typescript-tutorial
+    - qiang5062250/react-ie8
+    - qiang5062250/jekyllcn
   content: >
-    <p>Other projects that I have contributed can be found in <a href="https://github.com/xcatliu">github.com/xcatliu</a>.</p>
-    <p>If you love my projects, please <a href="https://github.com/xcatliu/buy-me-a-coffee">buy me a coffee</a> to support me.</p>
+    <p>Other projects that I have contributed can be found in <a href="https://github.com/qiang5062250">github.com/qiang5062250</a>.</p>
+    <p>If you love my projects, please <a href="https://github.com/qiang5062250/buy-me-a-coffee">buy me a coffee</a> to support me.</p>
 
 working:
   title: Working Experience
